@@ -102,6 +102,7 @@ La madera que dices que vas a utilizar, ¿Dónde la tienes?. ¿De dónde la vas 
 <br>
 <br>
 
+¡La madera!, ¡Si!, voy a coger algunas tablas de las que
 
 </div>
 <br>
