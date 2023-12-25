@@ -1,0 +1,35 @@
+title: "Mil cosas de nada"
+author: "Mil cosas de nada"
+description: # "Made with <b style=\"color: #f45;\">&lt;3</b>"
+permalink: /:title/
+lang: "es"
+excerpt_separator: "\n\n\n"
+date_format: "%Y %B %d "
+
+# Layout
+
+show_excerpts: false        # Mostrar extractos de artículo en la página de inicio
+show_frame: true          # Agrega un marco gris al sitio
+show_sidebar: true         # Mostrar una barra lateral en lugar del encabezado habitual
+minimal: true             # Usa un encabezado oscuro
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html"}
+  - {file: "README.md"}
+  - {file: "Fotos_videos.md"}
+
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
