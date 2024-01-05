@@ -1,5 +1,5 @@
 ---
-title: "Acerca de"
+title: "Acerca de."
 permalink: "/about/"
 layout: page
 ---
@@ -52,7 +52,7 @@ SALUDOS.
 
 <h3 id=Saludo>
         <br>
-        Este es un sitio de cosas de nada. ¡Sí, eso!. Son de nada, no sirven para nada. Son escritos, tratados, cuentos, mini relatos, pequeñas narraciones, reflexiones pequeñas. Todo en pequeño, despacio, poco a poco. Todo esto no es para nada, no quieras entender, ni comprender, ni buscar, ni encontrar, ni tocar, ni oler, ni gustar, ni ver, ni oir. Solamente, para el pensamiento, y mira, mira despacio.
+        Este es un sitio de cosas de nada. ¡Sí, eso!. Son de nada, no sirven para nada. Son escritos, tratados, cuentos, mini relatos, pequeñas narraciones, reflexiones pequeñas. Todo en pequeño, despacio, poco a poco. Todo esto no es para nada, no quieras entender, ni comprender, ni buscar, ni encontrar, ni tocar, ni oler, ni gustar, ni ver, ni oir. Solamente, para el pensamiento, y mira, mira, mira (tres veces) despacio.
         <br>
         <br>
 </h3>

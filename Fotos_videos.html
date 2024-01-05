@@ -1,0 +1,207 @@
+---
+title: "Fotos y videos."
+layout: page
+---
+<style type="text/css">
+
+    #Fotos_videos {
+        font-family: "Times New Roman", Georgia, Serif;
+        font-weight: normal;
+        text-align: justify;
+        background-color: #000;
+        color: #fff;
+        font-size:24px;
+        margin: 0px 10px 0px 10px;
+        /**border: #000 40px solid;**/
+        padding-top:0px;
+        padding-right:40px;
+        padding-bottom:0px;
+        padding-left:40px;
+    }
+
+    #Titulo {
+        font-family: "Times New Roman", Georgia, Serif;
+        font-weight: bold;
+        text-align: justify;
+        background-color: #000;
+        color: #ffF; 
+        font-size:20px;
+        text-decoration: underline;
+        margin: 0px 10px 0px 10px;
+        /**border: #000 40px solid;**/
+        padding-top:10px;
+        padding-right:40px;
+        padding-bottom:10px;
+        padding-left:40px;
+    }
+
+    #EnlacesFotos {
+        font-family: "Times New Roman", Georgia, Serif;
+        font-weight: bold;
+        text-align: justify;
+        background-color: #000;
+        color: #ffF; 
+        font-size:20px;
+        margin: 0px 10px 0px 10px;
+        /**border: #000 40px solid;**/
+        padding-top:10px;
+        padding-right:40px;
+        padding-bottom:10px;
+        padding-left:40px;
+    }
+
+    #iframeFotosGirasoles {
+      display:none !important;
+    }
+
+    #iframeFotosLirios {
+      display:none !important;
+    }
+
+    #iframeFotosCrisantemos {
+      display:none !important;
+    }
+
+    #BotonFotos_2 {
+      font-family: "Times New Roman", Georgia, Serif;
+      font-weight: bold;
+      background-color: #fff;
+      border: 20px;
+      color: #000;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 30px;
+    }
+
+    #BotonFotos{  
+      font-family: "Times New Roman", Georgia, Serif;
+      font-weight: bold;
+      font-size: 30px;
+      /*width: 100px;
+      height: 50px;*/
+      border-radius: 4px 4px 4px 4px;
+      background-color: #fff;
+      box-shadow: -5px 5px 5px #999;
+      color: #000;
+    }
+
+    #BotonFotos:active{
+      font-family: "Times New Roman", Georgia, Serif;
+      font-weight: bold;
+      font-size: 30px;
+      /*width: 100px;
+      height: 50px;*/
+      border-radius: 8px 8px 8px 8px;
+      background-color: #fff;
+      box-shadow: 0px 0px 1px #999;
+      color: #000;
+    }
+
+</style>
+
+<h2 id="Titulo">
+        FOTOS Y VIDEOS.
+</h2>
+    
+<br>
+<br>
+
+<div class id="EnlacesFotos"> 
+<ul>
+  <li type="disc">
+        <tr>
+          <td>
+            <!--<a id="FotosLirios" onclick="addElemento()" href="../fotosvideos/FotosVideosLirios.html#FotosLiriosEnlace"> Fotos y videos de lirios</a>-->
+            <button id="BotonFotos" onclick="AñadeFotosLirios()">&emsp;Añade Fotos y videos de lirios&emsp;&emsp;&emsp;&ensp;&ensp;</button>
+          </td>
+          <td>
+            <button id="BotonFotos_3" onclick="QuitaFotosLirios()">&emsp;&emsp;Quita fotos y videos de lirios&emsp;&emsp;&emsp;&emsp;</button>
+          </td>
+        </tr>
+  </li>
+  <li type="disc">
+    <tr>
+      <td>
+        <button id="BotonFotos" onclick="AñadeFotosGirasoles()">&emsp;Añade Fotos y videos de girasoles&emsp;&emsp;&ensp;</button>
+      </td>
+      <td>
+        <button id="BotonFotos_3" onclick="QuitaFotosGirasoles()">&emsp;&emsp;Quita fotos y videos de girasoles&emsp;&emsp;</button>
+      </td>
+    </tr>
+    </li>
+  <li type="disc">
+    <tr>
+      <td>
+        <button id="BotonFotos" onclick="AñadeFotosCrisantemos()">&emsp;Añade Fotos y videos de crisantemos&emsp;</button>
+      </td>
+      <td>
+        <button id="BotonFotos_3" onclick="QuitaFotosCrisantemos()">&ensp;&emsp;&emsp;Quita fotos y videos de crisantemos</button>
+      </td>
+    </tr>
+  </li>
+  <!--<li type="disc">
+    <script src="../public/js/script.js"></script>
+  </li>-->
+</ul>
+
+</div>
+<br>
+<br>
+
+<iframe id="iframeFotosLirios" src="../fotosvideos/FotosVideosLirios.html" ></iframe>
+<iframe id="iframeFotosGirasoles" src="../fotosvideos/FotosVideosGirasoles.html" ></iframe>
+<iframe id="iframeFotosCrisantemos" src="../fotosvideos/FotosVideosCrisantemos.html" ></iframe>
+
+<script>
+
+  function AñadeFotosGirasoles(texto){
+
+    // usamos el iframe para acceder al objeto document de Pagina1.html
+    var iframeDocument = document.getElementById('iframeFotosGirasoles').contentDocument;
+ 
+    // usando el método getElementById de ese objeto accedemos a 'MyDiv'
+    const miDivGirasoles = iframeDocument.getElementById('FotosGirasolesEnlace');
+    EnlacesFotos.appendChild(miDivGirasoles);
+    console.log(miDivGirasoles.parentElement.innerHTML) 
+    }
+
+  function QuitaFotosGirasoles(texto){
+
+    EnlacesFotos.removeChild(miDivGirasoles);
+    }
+
+  function AñadeFotosLirios(texto){
+
+    // usamos el iframe para acceder al objeto document de Pagina1.html
+    var iframeDocument = document.getElementById('iframeFotosLirios').contentDocument;
+
+    // usando el método getElementById de ese objeto accedemos a 'MyDiv'
+    const miDivLirios = iframeDocument.getElementById('FotosLiriosEnlace');
+    EnlacesFotos.appendChild(miDivLirios);
+    //console.log(miDivLirios.parentElement.innerHTML); 
+    }
+
+  function QuitaFotosLirios(texto){
+
+      EnlacesFotos.removeChild(miDivLirios);
+    }
+
+function AñadeFotosCrisantemos(texto){
+
+// usamos el iframe para acceder al objeto document de Pagina1.html
+var iframeDocument = document.getElementById('iframeFotosCrisantemos').contentDocument;
+
+// usando el método getElementById de ese objeto accedemos a 'MyDiv'
+const miDivCrisantemos = iframeDocument.getElementById('FotosCrisantemosEnlace');
+EnlacesFotos.appendChild(miDivCrisantemos);
+console.log(miDivCrisantemos.parentElement.innerHTML) 
+}
+
+function QuitaFotosCrisantemos(texto){
+
+EnlacesFotos.removeChild(miDivCrisantemos);
+}
+
+</script>

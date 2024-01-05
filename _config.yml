@@ -1,5 +1,5 @@
-title: "Mil cosas de nada"
-author: "Mil cosas de nada"
+title: "Mil cosas de nada."
+author: "Mil cosas de nada."
 description: # "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "es"
@@ -18,7 +18,7 @@ minimal: true             # Usa un encabezado oscuro
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
-  - {file: "Fotos_videos.md"}
+  - {file: "Fotos_videos.html"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
