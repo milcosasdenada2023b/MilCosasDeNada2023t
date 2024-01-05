@@ -3,11 +3,11 @@
 	"file": "frame.css",
 	"sources": [
 		"frame.sass",
-		"_sass/index.sass",
-		"_sass/font.sass",
-		"_sass/basic.sass",
-		"_sass/layout.sass",
-		"_sass/classes.sass"
+		"../MilCosasDeNada2023t/_sass/index.sass",
+		"../MilCosasDeNada2023t/_sass/font.sass",
+		"../MilCosasDeNada2023t/_sass/basic.sass",
+		"../MilCosasDeNada2023t/_sass/layout.sass",
+		"../MilCosasDeNada2023t/_sass/classes.sass"
 	],
 	"sourcesContent": [
 		"@import \"index\", \"font\", \"basic\", \"layout\", \"classes\";\n\nhtml {\n  background: lighten($dark, 70%);\n  padding: 0 calc(38% - 22em); }\n\nbody {\n  box-shadow: 0 0 .3em lighten($dark, 65%); }\n\nbody > header, body > footer {\n  background: lighten($dark, 5%);\n  color: $light; }\n\n@media (min-width: 32em) {\n  body > header, body > article, body > footer {\n    padding: 1.75em calc(22% - 6em); } }\n\n@media (prefers-color-scheme: dark) {\n  body, body > header, body > footer {\n    box-shadow: 0 0 0 1px lighten($dark, 8%); }\n  html, body > header, body > footer {\n    background: $dark; } }\n",
