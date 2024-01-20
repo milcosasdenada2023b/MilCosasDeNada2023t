@@ -93,7 +93,7 @@ PARA TODOS.
 <br>
 
 <h3 id="#Titulo_segundo">
-FELIZ DÍA DE LOS REYES MAGOS
+FELIZ DÍA DE LOS REYES MAGOS.
 </h3>
 
 Hoy, tenemos con nosotros el Espíritu, la energía de los Reyes Magos. 
