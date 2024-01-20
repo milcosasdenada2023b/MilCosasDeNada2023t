@@ -1,4 +1,275 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es" /><updated>2024-01-05T18:49:01+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mil cosas de nada.</title><author><name>Mil cosas de nada.</name></author><entry><title type="html">LA JARDINERA DE CRISANTEMOS Y EL CAJÓN DE PATATAS.</title><link href="http://localhost:4000/JARDINERA_CRISANTEMOS_CAJON_PATATAS/" rel="alternate" type="text/html" title="LA JARDINERA DE CRISANTEMOS Y EL CAJÓN DE PATATAS." /><published>2023-11-29T19:33:55+01:00</published><updated>2023-11-29T19:33:55+01:00</updated><id>http://localhost:4000/JARDINERA_CRISANTEMOS_CAJON_PATATAS</id><content type="html" xml:base="http://localhost:4000/JARDINERA_CRISANTEMOS_CAJON_PATATAS/"><![CDATA[<style type="text/css">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="es" /><updated>2024-01-20T16:21:08+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mil cosas de nada.</title><author><name>Mil cosas de nada.</name></author><entry><title type="html">EL FARO Y LA DINAMO DE LA BICICLETA.</title><link href="http://localhost:4000/EL-FARO-Y-LA-DINAMO-DE-LA-BICICLETA/" rel="alternate" type="text/html" title="EL FARO Y LA DINAMO DE LA BICICLETA." /><published>2024-01-14T05:30:00+01:00</published><updated>2024-01-14T05:30:00+01:00</updated><id>http://localhost:4000/EL%20FARO%20Y%20LA%20DINAMO%20DE%20LA%20BICICLETA</id><content type="html" xml:base="http://localhost:4000/EL-FARO-Y-LA-DINAMO-DE-LA-BICICLETA/"><![CDATA[<style type="text/css">
+
+        #TituloPrincipal {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: bold;
+            color: #fff;
+            background: #000;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:10px;
+            padding-right:40px;
+            padding-bottom:10px;
+            padding-left:40px;
+        }
+
+    
+        #Titulo_segundo {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:0px;
+            padding-right:40px;
+            padding-bottom:0px;
+            padding-left:40px;
+        }
+
+        #Texto_principal {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            font-size:24px;
+            text-align: justify;
+            background: #000;
+            color: #fff;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:20px;
+            padding-right:40px;
+            padding-bottom:10px;
+            padding-left:40px;
+        }
+
+        #Saludo {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            text-align: justify
+        }
+
+        #Firma {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            text-align: right
+        }
+        
+        #ImagenJardinera{
+            border-color: #fff;
+            border-width: 0;
+            border-style: solid;
+            /**margin: auto;**/
+            /**display: flex;**/
+            /**justify-content: center;**/
+            margin: 0px 30px 0px 30px;
+        }
+
+        #ImagenCajon{
+            border-color: #fff;
+            border-width: 0;
+            border-style: solid;
+            /**margin: auto;**/
+            /**display: flex;**/
+            /**justify-content: center;**/
+            margin: 0px 30px 0px 30px;
+        }
+    
+</style>
+
+<h2 id="TituloPrincipal">EL FARO Y LA DINAMO DE LA BICICLETA QUE NO SIRVEN PARA NADA.</h2>
+
+<p><br /></p>
+
+<div id="Texto_principal">
+
+El dia de Los Santos.
+
+Es el dia de antes de Los Santos. Estamos terminando de comer. Me he cogido el día 2 de noviembre como dia de descanso, que es jueves. Así que tengo 2 dias seguidos que no voy ir a trabajar.
+<br />
+<br />
+¡Digo!, que si cogemos el camino de San Roque y vamos por él. Está buena tarde, hay sol agradable, y como ya hemos cambiado la hora, pronto se hace noche, las tardes en este tiempo son cortas. En lo que sales de trabajar, las tres, comes, recoges y demás se hacen las cinco. 
+<br />
+<br />
+Claro, ¡Vamos!. Ya sabes que en lo tocante a lo lento, a lo despacio, a lo tranquilo, a lo pequeño, a lo poco, a lo breve, a lo que invita hacia dentro, a lo callado, a lo del silencio, me agarro a un clavo ardiendo. Así que por mi parte ¡Vamos!.
+<br />
+<br />
+Sí, vamos por el camino de San Roque.
+<br />
+<br />
+¿Cuento el cuento de la bicicleta y el faro?.
+<br />
+<br />
+¡Vale!, venga cuenta.
+<br />
+<br />
+Pues mira, dice así.
+<br />
+<br />
+Con mi bicicleta, voy por todos los sitios. ¡Me encanta ir con mi bici a todos los sitios!.
+<br />
+<br />
+Tengo una bici roja de las altas, de las que tienen las ruedas de setecientos. Es vieja, no la estreno yo. Es de unos amigos que son ya viejos como la bici. Lleva algún tiempo parada, sin usar. Mis amigos no la usan, ellos tienen una moto y un coche. La bici roja, es una orbea, y la he recuperado para usarla yo. ¡Me encanta la bici orbea roja!. Esta un poco descolorida, pero la he pintado de rojo, y ahora está como nueva. 
+<br />
+<br />
+Tiene luz delante. Tiene la dinamo en la rueda de delante, y el faro esta colocado en el manillar, en el centro de la parte de arriba. 
+<br />
+<br />
+Cuando se pone el Sol, ya se ve el efecto de la luz del faro de la bici. Voy por la cuesta de la carretera, bajo a toda velocidad, y cuando  he cogido bastante velocidad, mas o menos por la mitad de la cuesta, como desde mi puesto de conducir la bici si que llego a dar la dinamo, ya que esta en la parte de arriba de la rueda de delante de la bici, me levanto del sillín, me echo hacia delante y hacia la izquierda, me agacho un poco, y con la mano izquierda, doy al botón que pone la dinamo en contacto con la rueda delantera de la bicicleta. De tal manera, que la pequeña rueda de la dínamo gira por el efecto de estar acoplada a la rueda delantera de la bici. Como la pequeña rueda de la dinamo gira, y esta es solidaria al rotor de la dinamo, en el estator de la misma se produce la energia eléctrica de corriente continua que hace falta para que la pequeña bombilla del faro de mi bici se encienda y de luz.
+<br />
+<br />
+Pero, no solo eso, sino que además, la bombilla ilumina más cuanto mas rápido me desplazo yo, bueno no yo, sino la bici. Ya que cuanto más rápido gira la dinamo, más tension continua se produce en el estator de la misma. Eso sí, hasta los límites de las características físicas en los que está construída la dinamo. No recuedo bien, me parece que la bombilla es de cinco o de doce voltios.
+<br />
+<br />
+Así, como cuando llego por la mitad de la cuesta de la carretera, voy a toda velocidad y como en ese punto doy la dinamo, el faro de mi bici luce como si fuera la luz de un coche o de un tractor. Me encanta hacer que el faro de mi bici luzca mucho.
+<br />
+<br />
+Cuando la luz de mi bici está dada, a mi, me cuesta bastante más trabajo dar pedales, y me canso mucho más que si no tengo la luz dada, como cuando es de dia. Por eso, para ver el efecto de la velocidad en la intensidad de iluminación, aprovecho la cuesta de la carretera. Que como es cuesta, y voy bajando me canso menos al dar los pedales. Y algunas veces, hasta voy a la siguente cuesta que hay en la carretera, que es más grande, mas larga y más pendiente. Está más o menos medio kilómetro más adelate. Allí se observa más y mejor el efecto de la velocidad de la bici en la iluminación del faro. Lo que pasa es que esta cuesta está un poco más lejos del pueblo y si ya es bastante de noche es peligroso ir hasta allí. Porque como, tanto la cuesta de la carretera que es más pequeña como la que es más grande están en la carretera, y esta es un poco estrecha. Y si vienen coches y estas  allí con la bici y encima a toda velocidad para ver el efecto de la velocidad en la iluminación del faro, puede que alguna noche alguno que venga en coche no me vea bien y me lleve por delante con la bici incluida. Asi que a la cuesta del puente grande solo voy algunas veces cuando me hago el valiente.
+<br />
+<br />
+Luego, ya me voy para casa. Y cuando llego ya es de noche. Guardo la bici en el cuarto que está al lado del corral y a cenar y a la cama. Que la tele, no la miro. Ahí voy a estar yo, mirando la tele sin hacer nada, viéndoles a ellos. Y luego al día siguiente, estoy cansado por haber descansado poco. Así que la tele, que la vean ellos, y si no que pongan los programas que tienen algún interés antes, y no por la noche.
+<br />
+<br />
+
+
+<p id="Firma">
+
+<br />
+Enero de 2024.
+</p>
+<br />
+<br />
+</div>
+<p><br /></p>]]></content><author><name>Mil cosas de nada.</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[EL FARO Y LA DINAMO DE LA BICICLETA QUE NO SIRVEN PARA NADA. El dia de Los Santos. Es el dia de antes de Los Santos. Estamos terminando de comer. Me he cogido el día 2 de noviembre como dia de descanso, que es jueves. Así que tengo 2 dias seguidos que no voy ir a trabajar. ¡Digo!, que si cogemos el camino de San Roque y vamos por él. Está buena tarde, hay sol agradable, y como ya hemos cambiado la hora, pronto se hace noche, las tardes en este tiempo son cortas. En lo que sales de trabajar, las tres, comes, recoges y demás se hacen las cinco. Claro, ¡Vamos!. Ya sabes que en lo tocante a lo lento, a lo despacio, a lo tranquilo, a lo pequeño, a lo poco, a lo breve, a lo que invita hacia dentro, a lo callado, a lo del silencio, me agarro a un clavo ardiendo. Así que por mi parte ¡Vamos!. Sí, vamos por el camino de San Roque. ¿Cuento el cuento de la bicicleta y el faro?. ¡Vale!, venga cuenta. Pues mira, dice así. Con mi bicicleta, voy por todos los sitios. ¡Me encanta ir con mi bici a todos los sitios!. Tengo una bici roja de las altas, de las que tienen las ruedas de setecientos. Es vieja, no la estreno yo. Es de unos amigos que son ya viejos como la bici. Lleva algún tiempo parada, sin usar. Mis amigos no la usan, ellos tienen una moto y un coche. La bici roja, es una orbea, y la he recuperado para usarla yo. ¡Me encanta la bici orbea roja!. Esta un poco descolorida, pero la he pintado de rojo, y ahora está como nueva. Tiene luz delante. Tiene la dinamo en la rueda de delante, y el faro esta colocado en el manillar, en el centro de la parte de arriba. Cuando se pone el Sol, ya se ve el efecto de la luz del faro de la bici. Voy por la cuesta de la carretera, bajo a toda velocidad, y cuando he cogido bastante velocidad, mas o menos por la mitad de la cuesta, como desde mi puesto de conducir la bici si que llego a dar la dinamo, ya que esta en la parte de arriba de la rueda de delante de la bici, me levanto del sillín, me echo hacia delante y hacia la izquierda, me agacho un poco, y con la mano izquierda, doy al botón que pone la dinamo en contacto con la rueda delantera de la bicicleta. De tal manera, que la pequeña rueda de la dínamo gira por el efecto de estar acoplada a la rueda delantera de la bici. Como la pequeña rueda de la dinamo gira, y esta es solidaria al rotor de la dinamo, en el estator de la misma se produce la energia eléctrica de corriente continua que hace falta para que la pequeña bombilla del faro de mi bici se encienda y de luz. Pero, no solo eso, sino que además, la bombilla ilumina más cuanto mas rápido me desplazo yo, bueno no yo, sino la bici. Ya que cuanto más rápido gira la dinamo, más tension continua se produce en el estator de la misma. Eso sí, hasta los límites de las características físicas en los que está construída la dinamo. No recuedo bien, me parece que la bombilla es de cinco o de doce voltios. Así, como cuando llego por la mitad de la cuesta de la carretera, voy a toda velocidad y como en ese punto doy la dinamo, el faro de mi bici luce como si fuera la luz de un coche o de un tractor. Me encanta hacer que el faro de mi bici luzca mucho. Cuando la luz de mi bici está dada, a mi, me cuesta bastante más trabajo dar pedales, y me canso mucho más que si no tengo la luz dada, como cuando es de dia. Por eso, para ver el efecto de la velocidad en la intensidad de iluminación, aprovecho la cuesta de la carretera. Que como es cuesta, y voy bajando me canso menos al dar los pedales. Y algunas veces, hasta voy a la siguente cuesta que hay en la carretera, que es más grande, mas larga y más pendiente. Está más o menos medio kilómetro más adelate. Allí se observa más y mejor el efecto de la velocidad de la bici en la iluminación del faro. Lo que pasa es que esta cuesta está un poco más lejos del pueblo y si ya es bastante de noche es peligroso ir hasta allí. Porque como, tanto la cuesta de la carretera que es más pequeña como la que es más grande están en la carretera, y esta es un poco estrecha. Y si vienen coches y estas allí con la bici y encima a toda velocidad para ver el efecto de la velocidad en la iluminación del faro, puede que alguna noche alguno que venga en coche no me vea bien y me lleve por delante con la bici incluida. Asi que a la cuesta del puente grande solo voy algunas veces cuando me hago el valiente. Luego, ya me voy para casa. Y cuando llego ya es de noche. Guardo la bici en el cuarto que está al lado del corral y a cenar y a la cama. Que la tele, no la miro. Ahí voy a estar yo, mirando la tele sin hacer nada, viéndoles a ellos. Y luego al día siguiente, estoy cansado por haber descansado poco. Así que la tele, que la vean ellos, y si no que pongan los programas que tienen algún interés antes, y no por la noche.]]></summary></entry><entry><title type="html">EL DIA DE LOS REYES MAGOS 2024.</title><link href="http://localhost:4000/DIA_DE_LOS_REYES_MAGOS_2024/" rel="alternate" type="text/html" title="EL DIA DE LOS REYES MAGOS 2024." /><published>2024-01-06T05:30:00+01:00</published><updated>2024-01-06T05:30:00+01:00</updated><id>http://localhost:4000/DIA_DE_LOS_REYES_MAGOS_2024</id><content type="html" xml:base="http://localhost:4000/DIA_DE_LOS_REYES_MAGOS_2024/"><![CDATA[<style type="text/css">
+
+        #TituloPrincipal {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: bold;
+            color: #fff;
+            background: #000;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:10px;
+            padding-right:40px;
+            padding-bottom:10px;
+            padding-left:40px;
+        }
+
+    
+        #Titulo_segundo {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:0px;
+            padding-right:40px;
+            padding-bottom:0px;
+            padding-left:40px;
+        }
+
+        #Texto_principal {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            font-size:24px;
+            text-align: justify;
+            background: #000;
+            color: #fff;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:20px;
+            padding-right:40px;
+            padding-bottom:10px;
+            padding-left:40px;
+        }
+
+        #Saludo {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            text-align: justify
+        }
+
+        #Firma {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            text-align: right
+        }
+        
+        #ImagenJardinera{
+            border-color: #fff;
+            border-width: 0;
+            border-style: solid;
+            /**margin: auto;**/
+            /**display: flex;**/
+            /**justify-content: center;**/
+            margin: 0px 30px 0px 30px;
+        }
+
+        #ImagenCajon{
+            border-color: #fff;
+            border-width: 0;
+            border-style: solid;
+            /**margin: auto;**/
+            /**display: flex;**/
+            /**justify-content: center;**/
+            margin: 0px 30px 0px 30px;
+        }
+    
+</style>
+
+<h2 id="TituloPrincipal">REYES MAGOS 2024</h2>
+
+<p><br /></p>
+
+<div id="Texto_principal">
+
+PARA TODOS.
+
+<br />
+<br />
+
+<h3 id="#Titulo_segundo">
+FELIZ DÍA DE LOS REYES MAGOS.
+</h3>
+
+Hoy, tenemos con nosotros el Espiritú, la energía de los Reyes Magos. 
+<br />
+<br />
+Los Reyes Magos de Oriente han ido a adorar al recien nacido niño Jesús. Se han guiado por la luz de la estrella de oriente.
+<br />
+<br />
+Nosotros, hoy como hace dos mil años, también vamos donde está en niño Jesús, igual que los Reyes Magos. Vamos de su mano. Ellos, hoy son nuestros guías. Vamos por donde ellos nos digan y hacemos, lo que ellos nos indiquen. Pero no vamos andando, o en bicicleta o en coche. Nosotros vamos en camello. En el asiento de atrás de los camellos de los Reyes Magos de Oriente. Nosotros, unimos, disolvemos, mezclamos nuestra energía con la de los Reyes Magos de hace dos mil años. Y vamos donde ha nacido el niño Jesús, el camino, la esperanza.
+<br />
+<br />
+Paramos el pensamiento y los siete sentidos, y nos quedamos, solamente mirando, pero mirando, que no es viendo, porque ver se hace con los ojos, y mirar se mira con todo lo que uno es. Y nos damos cuenta de que sí, que los Reyes Magos hoy están entre nosotros. Porque esta alegría que todos tenemos en nuestro interior, son los Reyes Magos, porque esas ganas de compartir con nuestros familiares y amigos los regalos y las cosas que nos han traído, son los Reyes Magos, porque esa energía que no se ve, pero que nosotros notamos que nos envuelve, son los Reyes Magos, porque esa disposición a ser y dar lo mejor de nostros mismos, son los Reyes Magos. Pero, no solo eso, sino que hoy cuando nos hemos levantado de la cama mientras desayunamos, nos hemos dicho a nosotros mismos, hoy es el día de los Reyes Magos, y yo mismo voy a ser otro Rey Mago. Y lo voy a ser haciendo lo que yo sé que tengo que hacer. 
+<br />
+<br />
+Es así, cuando tú haces lo que tú mismo sabes que tienes que hacer, cuando te das cuenta de que tú sabes y puedes hacerlo de sobra, cuando pones tu atención en ello, cuando te centras y te disuelves en lo que haces, cuando te pones a hacelo, yo lo he visto, es cuando las cosas te salen perfectas y el universo se alinea contigo mismo.
+<br />
+<br />
+
+<h3 id="#Titulo_segundo">
+Muchos abrazotes, muchachotes y muchachotas.
+</h3>
+<br />
+<br />
+
+Los Reyes Magos de Oriente. (Melchor, Gaspar y Baltasar).
+
+<br />
+<br />
+
+<h3 id="#Titulo_segundo">
+FELIZ DÍA DE LOS REYES MAGOS.
+</h3>
+
+<br />
+<br />
+<p id="Firma">
+
+<br />
+Enero de 2024.
+</p>
+<br />
+<br />
+</div>
+<p><br /></p>]]></content><author><name>Mil cosas de nada.</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[REYES MAGOS 2024 PARA TODOS. FELIZ DÍA DE LOS REYES MAGOS. Hoy, tenemos con nosotros el Espiritú, la energía de los Reyes Magos. Los Reyes Magos de Oriente han ido a adorar al recien nacido niño Jesús. Se han guiado por la luz de la estrella de oriente. Nosotros, hoy como hace dos mil años, también vamos donde está en niño Jesús, igual que los Reyes Magos. Vamos de su mano. Ellos, hoy son nuestros guías. Vamos por donde ellos nos digan y hacemos, lo que ellos nos indiquen. Pero no vamos andando, o en bicicleta o en coche. Nosotros vamos en camello. En el asiento de atrás de los camellos de los Reyes Magos de Oriente. Nosotros, unimos, disolvemos, mezclamos nuestra energía con la de los Reyes Magos de hace dos mil años. Y vamos donde ha nacido el niño Jesús, el camino, la esperanza. Paramos el pensamiento y los siete sentidos, y nos quedamos, solamente mirando, pero mirando, que no es viendo, porque ver se hace con los ojos, y mirar se mira con todo lo que uno es. Y nos damos cuenta de que sí, que los Reyes Magos hoy están entre nosotros. Porque esta alegría que todos tenemos en nuestro interior, son los Reyes Magos, porque esas ganas de compartir con nuestros familiares y amigos los regalos y las cosas que nos han traído, son los Reyes Magos, porque esa energía que no se ve, pero que nosotros notamos que nos envuelve, son los Reyes Magos, porque esa disposición a ser y dar lo mejor de nostros mismos, son los Reyes Magos. Pero, no solo eso, sino que hoy cuando nos hemos levantado de la cama mientras desayunamos, nos hemos dicho a nosotros mismos, hoy es el día de los Reyes Magos, y yo mismo voy a ser otro Rey Mago. Y lo voy a ser haciendo lo que yo sé que tengo que hacer. Es así, cuando tú haces lo que tú mismo sabes que tienes que hacer, cuando te das cuenta de que tú sabes y puedes hacerlo de sobra, cuando pones tu atención en ello, cuando te centras y te disuelves en lo que haces, cuando te pones a hacelo, yo lo he visto, es cuando las cosas te salen perfectas y el universo se alinea contigo mismo. Muchos abrazotes, muchachotes y muchachotas. Los Reyes Magos de Oriente. (Melchor, Gaspar y Baltasar). FELIZ DÍA DE LOS REYES MAGOS. Enero de 2024.]]></summary></entry><entry><title type="html">LA JARDINERA DE CRISANTEMOS Y EL CAJÓN DE PATATAS.</title><link href="http://localhost:4000/JARDINERA_CRISANTEMOS_CAJON_PATATAS/" rel="alternate" type="text/html" title="LA JARDINERA DE CRISANTEMOS Y EL CAJÓN DE PATATAS." /><published>2023-11-29T19:33:55+01:00</published><updated>2023-11-29T19:33:55+01:00</updated><id>http://localhost:4000/JARDINERA_CRISANTEMOS_CAJON_PATATAS</id><content type="html" xml:base="http://localhost:4000/JARDINERA_CRISANTEMOS_CAJON_PATATAS/"><![CDATA[<style type="text/css">
 
         #TituloPrincipal {
             font-family: "Times New Roman", Georgia, Serif;
