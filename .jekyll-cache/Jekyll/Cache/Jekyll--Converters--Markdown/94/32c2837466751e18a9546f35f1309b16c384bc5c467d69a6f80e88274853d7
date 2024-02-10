@@ -1,0 +1,109 @@
+I"f<style type="text/css">
+
+        #TituloPrincipal {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: bold;
+            color: #fff;
+            background: #000;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:10px;
+            padding-right:40px;
+            padding-bottom:10px;
+            padding-left:40px;
+        }
+
+    
+        #Titulo_segundo {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:0px;
+            padding-right:40px;
+            padding-bottom:0px;
+            padding-left:40px;
+        }
+
+        #Texto_principal {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            font-size:24px;
+            text-align: justify;
+            background: #000;
+            color: #fff;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:20px;
+            padding-right:40px;
+            padding-bottom:10px;
+            padding-left:40px;
+        }
+
+        #Saludo {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            text-align: justify
+        }
+
+        #Firma {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            text-align: right
+        }
+        
+        #ImagenJardinera{
+            border-color: #fff;
+            border-width: 0;
+            border-style: solid;
+            /**margin: auto;**/
+            /**display: flex;**/
+            /**justify-content: center;**/
+            margin: 0px 30px 0px 30px;
+        }
+
+        #ImagenCajon{
+            border-color: #fff;
+            border-width: 0;
+            border-style: solid;
+            /**margin: auto;**/
+            /**display: flex;**/
+            /**justify-content: center;**/
+            margin: 0px 30px 0px 30px;
+        }
+    
+</style>
+
+<h2 id="TituloPrincipal">CUMPLEAÑOS 2024.</h2>
+
+<p><br /></p>
+
+<div id="Texto_principal">
+
+PARA TODOS.
+
+<br />
+<br />
+
+<h3 id="#Titulo_segundo">
+FELIZ DÍA DE CUMPLEAÑOS.
+</h3>
+
+Feliz día de cumpleaños. 
+<br />
+<br />
+Hoy decimos que es el cumpleaños. Un poco de tiempo más pasa. 
+
+Podemos hacer lo siguente;
+
+Tres pasos, primero paramos los siete sentidos, luego paramos el pensamiento y por último miramos. Después, no hay tiempo ni espacio. Cuando miramos, el tiempo y el esapcio quedan diluidos en el mirar.
+
+En esta posición, desde las profundidades hacia el exterior, por favor, ¡Feliz cumpleaños!, ¡Feliz cumpleaños!. ¡Feliz cumpleaños!. Tres veces. Y otras tres veces, ¡Gracias!, ¡Gracias!, ¡Gracias!.
+
+<h3 id="#Titulo_segundo">
+Felicidades por el día de tú cumpleaños.
+</h3>
+<br />
+<br />
+</div>
+:ET
