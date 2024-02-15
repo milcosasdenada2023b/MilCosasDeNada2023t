@@ -179,7 +179,7 @@ Cuando hemos llegado a la plaza ya se está poniendo el Sol, y hace un poco fres
 Esta tarde, una tarde del día de antes de un día los Santos cualquiera, Gonzalo y yo hemos ido por el camino de San Roque. A Hacer nada, a decir nada a pensar nada. Son esas cosas que no sirven para nada.
 <br>
 <br>
-y hemos dejado dicho los dos, que ha de haber muchas más tardes, como esta tarde de un día de antes de cualquier día de los Santos, en muchos otros días del día de antes de los Santos cualquiera.
+Y hemos dejado dicho los dos, que ha de haber muchas más tardes, como esta tarde de un día de antes de cualquier día de los Santos, en muchos otros días del día de antes de los Santos cualquiera.
 
 
 
