@@ -1,0 +1,155 @@
+I";<style type="text/css">
+
+        #TituloPrincipal {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: bold;
+            color: #fff;
+            background: #000;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:10px;
+            padding-right:40px;
+            padding-bottom:10px;
+            padding-left:40px;
+        }
+
+    
+        #Titulo_segundo {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:0px;
+            padding-right:40px;
+            padding-bottom:0px;
+            padding-left:40px;
+        }
+
+        #Texto_principal {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            font-size:24px;
+            text-align: justify;
+            background: #000;
+            color: #fff;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:20px;
+            padding-right:40px;
+            padding-bottom:10px;
+            padding-left:40px;
+        }
+
+        #Saludo {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            text-align: justify
+        }
+
+        #Firma {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            text-align: right
+        }
+        
+        #ImagenJardinera{
+            border-color: #fff;
+            border-width: 0;
+            border-style: solid;
+            /**margin: auto;**/
+            /**display: flex;**/
+            /**justify-content: center;**/
+            margin: 0px 30px 0px 30px;
+        }
+
+        #ImagenCajon{
+            border-color: #fff;
+            border-width: 0;
+            border-style: solid;
+            /**margin: auto;**/
+            /**display: flex;**/
+            /**justify-content: center;**/
+            margin: 0px 30px 0px 30px;
+        }
+    
+</style>
+
+<h2 id="TituloPrincipal">SE ESTÁ MOVIENDO. ¡MIRA, MIRA, MIRA!.</h2>
+
+<p><br /></p>
+
+<div id="Texto_principal">
+
+PARA TÍ QUE LO LEES.
+
+<br />
+
+<h3 id="#Titulo_segundo">
+AHORA LO VEO, SE ESTÁ MOVIENDO.
+</h3>
+
+<br />
+<br />
+
+Todo llega y todo termina.
+<br />
+<br />
+
+Nada permanece igual ni un momento, por no decir un instante. Que los instantes parecen muy pequeños y yo no sé de cuánto son.
+<br />
+<br />
+
+Todo se mueve, y después de haberse movido, se mueve otra vez y así siempre.
+<br />
+<br />
+El movimiento requiere del tiempo.
+<br />
+<br />
+Si todo se mueve permanentemente, entonces el tiempo no existe.
+<br />
+<br />
+Sí el tiempo no existe, los días, los meses y los años tampoco existen..
+<br />
+<br />
+Sí los días no existen, los  cumpleaños son una ilusión.
+<br />
+<br />
+Sí el tiempo no existe, nada empieza y nada termina. Y nada llega.
+<br />
+<br />
+Así, sin tiempo a la vista, todo evoluciona.
+<br />
+<br />
+Hoy decimos que es el cumpleaños. Un poco de tiempo más pasa. 
+<br />
+<br />
+Podemos hacer lo siguente;
+<br />
+<br />
+Tres pasos; primero paramos los siete sentidos, luego paramos el pensamiento y por último miramos. Después, no hay tiempo ni espacio. Cuando miramos, el tiempo y el espacio quedan diluidos en el mirar.
+<br />
+<br />
+Mira tres veces, ¡Gracias!, ¡Gracias!, ¡Gracias!.
+<br />
+<br />
+<h3 id="#Titulo_segundo">
+Felicidades por el día de tú cumpleaños.
+</h3>
+<br />
+
+<h3 id="#Titulo_segundo">
+
+</h3>
+
+<br />
+
+<p id="Firma">
+
+<br />
+Febrero de 2024.
+</p>
+<br />
+<br />
+</div>
+<p><br /></p>
+:ET

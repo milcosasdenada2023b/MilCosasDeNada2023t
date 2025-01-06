@@ -1,0 +1,158 @@
+I"<style type="text/css">
+
+        #TituloPrincipal {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: bold;
+            color: #fff;
+            background: #000;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:10px;
+            padding-right:40px;
+            padding-bottom:10px;
+            padding-left:40px;
+        }
+
+    
+        #Titulo_segundo {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:0px;
+            padding-right:40px;
+            padding-bottom:0px;
+            padding-left:40px;
+        }
+
+        #Texto_principal {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            font-size:24px;
+            text-align: justify;
+            background: #000;
+            color: #fff;
+            margin: 0px 10px 0px 10px;
+            /**border: #000 40px solid;**/
+            padding-top:20px;
+            padding-right:40px;
+            padding-bottom:10px;
+            padding-left:40px;
+        }
+
+        #Saludo {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            text-align: justify
+        }
+
+        #Firma {
+            font-family: "Times New Roman", Georgia, Serif;
+            font-weight: normal;
+            text-align: right
+        }
+        
+        #ImagenJardinera{
+            border-color: #fff;
+            border-width: 0;
+            border-style: solid;
+            /**margin: auto;**/
+            /**display: flex;**/
+            /**justify-content: center;**/
+            margin: 0px 30px 0px 30px;
+        }
+
+        #ImagenCajon{
+            border-color: #fff;
+            border-width: 0;
+            border-style: solid;
+            /**margin: auto;**/
+            /**display: flex;**/
+            /**justify-content: center;**/
+            margin: 0px 30px 0px 30px;
+        }
+    
+</style>
+
+<h2 id="TituloPrincipal">VOLAR ALTO. CAMINAR EN LO HONDO.</h2>
+
+<p><br /></p>
+
+<div id="Texto_principal">
+
+<h3 id="#Titulo_segundo">
+VOLAR ALTO. CAMINAR EN LO HONDO.
+</h3>
+
+<br />
+
+Volar alto, dicen. Yo prefiero decir caminar en lo hondo, hacia lo hondo, desde lo hondo.
+<br />
+<br />
+La vida nos enseña que siempre hay que volar alto. Más alto que la envidia...más que el dolor...la maldad...más alto que las lágrimas...los juicios. Siempre hay que volar alto... donde algunas palabras no puedan ofendernos...donde algunos gestos no puedan herirnos...donde algunas personas nunca puedan llegar..."
+<br />
+<br />
+* Alda Merini *
+<br />
+<br />
+Glória in excélsis Deo et in terra pax homínibus bonae voluntátis.
+<br />
+<br />
+Gloria a Dios en las alturas y en la tierra paz a los hombres de buena voluntad
+<br />
+te alabamos
+<br />
+te bendecimos
+<br />
+te adoramos
+<br />
+te glorificamos
+<br />
+damos gracias a usted, por su gran gloria
+<br />
+Señor Dios, rey de los cielos
+<br />
+Dios padre todopoderoso
+<br />
+Señor hijo único, Jesucristo
+<br />
+Señor Dios, cordero de Dios, hijo del padre,
+<br />
+quitas todo pecado del mundo, ten piedad de nosotros
+<br />
+quitas todo pecado del mundo, recibe nuestra invocación
+<br />
+estas sentado a la derecha del padre, ten piedad de nosotros
+<br />
+porque sólo tú eres Santo, sólo tú eres Señor, sólo tú eres Altísimo
+<br />
+Jesucristo, con el Espíritu Santo, en la gloria del Dios Padre, Amén.
+<br />
+<br />
+Desde aquí, mi sitio 3D, apuntando hacia alli, mi sitio.
+<br />
+<br />
+Mira tres veces, ¡Gracias!, ¡Gracias!, ¡Gracias!.
+<br />
+<br />
+<h3 id="#Titulo_segundo">
+
+</h3>
+<br />
+
+<h3 id="#Titulo_segundo">
+
+</h3>
+
+<br />
+
+<p id="Firma">
+
+<br />
+Agosto de 2023.
+</p>
+<br />
+<br />
+</div>
+<p><br /></p>
+:ET
