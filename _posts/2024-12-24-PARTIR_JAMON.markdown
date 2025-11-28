@@ -97,7 +97,7 @@ Así parece;
 <br>
 <br>
 
-Mira Gonzalo, es el día de Nochebuena, tenemos un jamón sin empezar y me he puesto a partirlo.
+Mira Tercero, es el día de Nochebuena, tenemos un jamón sin empezar y me he puesto a partirlo.
 <br>
 <br>
 El jamón es uno de los alimentos más buenos que hay. Por que es carne de cerdo curada, solamente se saca del cerdo o más bien del marrano, se le da un poco de forma de jamón, se le tiene unos cuantos días metido en sal, ya no me acuerdo cuantos días es, me parece que son alrededor de diez días. Pero esto depende de más cosas, lo grande que sea el jamón, también de cómo venga el tiempo, si húmedo si seco, si baja o alta temperatura. Esto, como en todo, tiene su ciencia. Luego, se le pone a curar colgado en el sobrao. Se le tiene más o menos nueve meses o un año. Esto también depende, luego en función de estos y de otros parámetros salen las categorias del jamón. Pueden ser, jamón bodega, jamón reserva, jamón gran reserva, y muchos otros que yo ahora no sé. Pero bueno, que al final, por muy baja categoría, de esas que he dicho, que tenga, el jamón es una joya, una maravilla de la comida. Pocas cosas de aquí habrá como el jamón.
