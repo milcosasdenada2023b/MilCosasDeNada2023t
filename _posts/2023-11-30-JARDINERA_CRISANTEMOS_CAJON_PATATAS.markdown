@@ -319,6 +319,8 @@ Esta tarde, una tarde cualquiera, de un día cualquiera, Gonzalo y yo nos hemos 
 <p id="Firma">
 Tercero NADA y MIL.
 <br>
+<br>
+<br>
 Diciembre de 2023.
 </p>
 <br>
