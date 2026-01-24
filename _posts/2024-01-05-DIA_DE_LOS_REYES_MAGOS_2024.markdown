@@ -130,7 +130,7 @@ FELIZ DÍA DE LOS REYES MAGOS.
 <br>
 <br>
 <p id="Firma">
-Tercero NADA y MIL.
+Quinto NADA y MIL.
 <br>
 <br>
 <br>
